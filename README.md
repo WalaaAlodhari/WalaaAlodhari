@@ -8,8 +8,7 @@ I’m Walaa, a curious and passionate developer who loves exploring, learning, a
 
 🚀 Building & Creating: Whether it’s writing code, designing systems, or brainstorming ideas, I enjoy creating things that add value.
 
-
-Let's Connect! 🌐
+## Let's Connect! 🌐
 I’m always excited to connect with others, exchange ideas, and explore new opportunities!
 <!--
 **WalaaAlodhari/WalaaAlodhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Stuff I work with:
+## My Toolkit 🧑‍💻:
 
 ###
 <div align="center">
